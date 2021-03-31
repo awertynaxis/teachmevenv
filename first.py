@@ -9,3 +9,9 @@ print(result)
 
 # Тесты
 assert all(number in result and result[number] == number * number * number for number in (1, 100, 15, 17, 3, 221, 9, 5, 7, 2, 8, 11))
+ghost={}
+ghost={
+    int(x):int(x)**3
+    for x in numbers
+}
+print(ghost)
