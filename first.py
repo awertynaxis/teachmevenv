@@ -1,14 +1,9 @@
 #Task 10
 numbers = '1,100,15,17,3,221,9,5,7,2,8,11'
 result = {}
-d=''
+numbers=numbers.split(',')
 for x in numbers:
-    if x !=',':
-        d+=x
-    if x==',':
-        result[int(d)]=int(d)**3
-        d=''
-result[int(d)]=int(d)**3
+    result[int(x)]=int(x)**3
 print(result)
 # Ваше решение
 
