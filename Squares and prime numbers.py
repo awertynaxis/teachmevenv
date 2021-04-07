@@ -19,16 +19,20 @@ def is_prime(item:int)->bool:
     if i > sqrt(item) and item!=0:
            return True
 
-def filter(sequence:int,is_prime)->list:
-    """This function just returns result of too functions : is_square and is_prime"""
+
+def filter(sequence:int,condition)->list:
+    """This function gets a sequence of numbers and checks condition depends on wich function is called"""
     filter_1=[]
-    filter_2=[]
-    for item in sequence:
+    if condition==is_square:
+        for item in sequence:
             if is_square(item)==True:
              filter_1.append(item)
-            if is_prime(item) == True:
-                filter_2.append(item)
-    return filter_2
+    else:
+        for item in sequence:
+            if is_prime(item)==True:
+             filter_1.append(item)
+    return filter_1
+
 
 assert filter(range(25), is_square) == [1, 4, 9, 16]
 assert filter(range(25), is_prime) == [1, 2, 3, 5, 7, 11, 13, 17, 19, 23]
