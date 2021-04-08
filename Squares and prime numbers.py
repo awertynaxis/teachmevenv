@@ -2,34 +2,50 @@ from math import sqrt
 
 
 def is_square(item: int) -> bool:
-    '''this function gets a number and
-        returns only wich number is square'''
-
+    '''
+    >>>is_square(16)#if we enter a integer number 16 it returns True
+    True
+    >>>is_square(5)#if we enter a integer number 5 it returns None
+    None
+    this function gets a number and returns only wich number is square
+    :param item: integer number wich checks in functions
+    '''
     if sqrt(item).is_integer() and item!=0:
         return True
 
 
 def is_prime(item:int)->bool:
-    """gets a number and returns a prime number"""
+    """
+    gets a number and returns a prime number
+    >>>is_prime(11)#if entered number is prime returns True
+    True
+    >>>is_prime(6)#if entered number has more then 2 dividers it returns None
+    None
+    :param item: integer number wich checks in functions
+    """
     i = 2
     while i <= sqrt(item):
          if item % i == 0:
             break
          i += 1
-    if i > sqrt(item) and item!=0:
-           return True
+    return i > sqrt(item) and item!=0
+
 
 
 def filter(sequence:int,condition)->list:
-    """This function gets a sequence of numbers and checks condition depends on wich function is called"""
+    """
+    This function gets a sequence of numbers and checks condition depends on wich function is called
+    :param sequence:a list of numbers
+    :param condition: function will procces a entered list of numbers
+    """
     filter_1=[]
     if condition==is_square:
         for item in sequence:
-            if is_square(item)==True:
+            if is_square(item):
              filter_1.append(item)
     else:
         for item in sequence:
-            if is_prime(item)==True:
+            if is_prime(item):
              filter_1.append(item)
     return filter_1
 
