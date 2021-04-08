@@ -38,16 +38,11 @@ def filter(sequence:int,condition)->list:
     :param sequence:a list of numbers
     :param condition: function will procces a entered list of numbers
     """
-    filter_1=[]
-    if condition==is_square:
-        for item in sequence:
-            if is_square(item):
-             filter_1.append(item)
-    else:
-        for item in sequence:
-            if is_prime(item):
-             filter_1.append(item)
-    return filter_1
+    suitiable_items=[]
+    for item in sequence:
+        if condition(item):
+            suitiable_items.append(item)
+    return suitiable_items
 
 
 assert filter(range(25), is_square) == [1, 4, 9, 16]

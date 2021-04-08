@@ -13,23 +13,18 @@ def filter(sequence:list, condition)->list:
     :param condition input function wich checks input sequence
     returns list of strings which are valid for conditions
     """
-    filter_1=[]
-    if condition==has_three_a:
-        for item in sequence:
-            if has_three_a(item) == True:
-                filter_1.append(item)
-    else:
-        for item in sequence:
-            if is_alpha_title(item) == True:
-                filter_1.append(item)
-    return filter_1
+    suitiable_items=[]
+    for item in sequence:
+        if condition(item) == True:
+            suitiable_items.append(item)
+    return suitiable_items
 
 def has_three_a(item:str)->bool:
     """
     >>> has_three_a('Anaconda') #we get a string on entrance wich has 3 vowels a
     True
     >>> has_three_a('Millyways')# we get a string wich hasnt 3 a vowels and result must be None
-    None
+    False
     this function checks a number of vowels a,A in word
     :param item entrance string
     """
@@ -39,6 +34,8 @@ def has_three_a(item:str)->bool:
             j+=1
     if j>=3:
         return True
+    else:
+        False
 
 
 def is_alpha_title(item:str)->bool:
@@ -51,8 +48,7 @@ def is_alpha_title(item:str)->bool:
     This function gets string and checks: is there 'A' in string?
     """
     a='A'
-    if item[0] == a:
-        return True
+    return item[0] == a
 
 
 
@@ -98,15 +94,15 @@ def filter(input_strings:list,condition)->list:
     :param condition input function wich checks input sequence
     returns list of strings which are valid for conditions
     """
-    filter_1=[]
+    suitiable_items=[]
     option=provide_condition()
     if condition==has_n_letter:
         n = quantity()
         for item in input_strings():
             if has_n_letter(item,option,n):
-                filter_1.append(item)
+                suitiable_items.append(item)
     else:
         for item in input_strings():
             if is_letter_title(item,option):
-                filter_1.append(item)
-    return filter_1
+                suitiable_items.append(item)
+    return suitiable_items
