@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+<form action="{{ url_for('authorization')}}" method="post">
+    <p>Welcome to the Battlestats, let's start! Pls make authorization to continue</p>
+    <p>Enter your mailbox:<p/>
+    <p>
+        <input type="text" name="mailbox"/>
+    </p>
+    <p>Enter your password:<p/>
+    <p>
+        <input type="password" name="password">
+    </p>
+    <p>
+        <input type="submit" value="Confirm"/>
+    </p>
+</form>
+</body>
+</html>
