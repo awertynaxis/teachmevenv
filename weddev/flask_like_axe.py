@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import typing
 
 from flask import Flask, redirect, url_for, request, render_template
@@ -8,10 +9,10 @@ from sqlalchemy_utils import create_database, database_exists
 from PostgresSQL_DB import engine
 
 my_app = Flask(__name__)
-DB_USER = 'awerty_naxis'
-DB_PASS = 'legendarno25'
-DB_NAME = 'university_BNTU'
-DB_HOST = 'localhost'
+DB_USER = 'postgres'
+DB_PASS = 'postgres'
+DB_NAME = 'postgres'
+DB_HOST = 'postgres'
 DB_ECHO = True
 
 my_app.config['SQLALCHEMY_DATABASE_URI'] = f'postgresql://{DB_USER}:{DB_PASS}@{DB_HOST}/{DB_NAME}'
@@ -205,4 +206,4 @@ def legendary_player():
 
 session.commit()
 my_app.add_url_rule('/awerty_naxis', 'awerty_naxis', legendary_player)
-my_app.run()
+my_app.run(host='0.0.0.0')
