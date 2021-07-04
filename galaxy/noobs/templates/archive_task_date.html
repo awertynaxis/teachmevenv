@@ -1,0 +1,39 @@
+{%extends "base.html" %}
+{% block content %}
+<head>
+      <style>
+    p{color:black; font-family:"Times New Roman"}
+    </style>
+</head>
+    <ul>
+    {% for obj in object_list %}
+        <li>
+            {{obj.date_created }} : {{obj.title}}
+                {% if next_day %}
+        Next day : {{next_day}} : {{obj.title}}
+    {% endif %}
+             {% if previous_day %}
+            Previous Day : {{previous_day}} : {{obj.title}}
+             {% endif %}
+         </li>
+          {% endfor %}
+    </ul>
+    {% if previous_day %}
+        <ul>
+        Previous Day : {{previous_day}} : {{obj.title}}
+
+    {% endif %}
+             </ul>
+    {% if today %}
+     Task's for today:{{today}}
+    {% endif %}
+    {% if next_day %}
+        Next day : {{next_day}}
+    {% endif %}
+<br>
+<br>
+<form action="{% url 'show_registration' %}">
+    <button type="submit" class="btn btn-danger" >Get back to Task's list
+    </button>
+</form>
+{%endblock%}

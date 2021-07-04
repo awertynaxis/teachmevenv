@@ -1,0 +1,21 @@
+{%extends "base.html" %}
+{% block content %}
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<p>Here your task's : </p>
+<ul>
+  {% for obj in object_list %}
+    <br>
+    <li>
+    <a class="btn btn-primary" href="{% url 'show_task_detail' obj.id%}" role="button">{{obj.title}}</a>
+    </li>
+  {% endfor %}
+</ul>
+<br>
+<form action="{% url 'show_registration' %}">
+    <button type="submit" class="btn btn-outline-danger" >Get back to Task's list
+    </button>
+</form>
+{% endblock %}

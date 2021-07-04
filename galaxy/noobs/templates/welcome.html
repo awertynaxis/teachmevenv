@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+{% load static %}
+
+
+<html>
+<head>
+    <link rel="stylesheet" href="{% static 'Neonbutton.css' %}" type="text/css">
+    <style>
+    p{color:white; font-family:"Times New Roman"}
+    </style>
+</head>
+<body>
+<form action="{{ 'welcome'}}" method="post">
+    <p>  Hello, it is Mr.Banana: your own organizer!
+        Just let me care about your affairs!</p>
+    <a href="login">
+        <span></span>
+    <span></span>
+    <span></span>
+    <span></span>
+        Log in
+    </a>
+    <a href="registration">
+     <span></span>
+     <span></span>
+     <span></span>
+     <span></span>
+       Registration
+</a>
+</form>
+</body>
+</html>

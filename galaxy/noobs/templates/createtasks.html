@@ -1,0 +1,26 @@
+{%extends "base.html" %}
+{% block content %}
+
+<head>
+    <meta charset="UTF-8">
+    <title>Task for today</title>
+</head>
+<form action="{{'createtask'}}" method="post">
+    {% csrf_token %}
+    <p>Here u can create a new task via fill next form:</p>
+    {{form.as_ul}}
+    <br>
+    <button type="submit" class="btn btn-outline-success" >Confirm
+    </button>
+    <br>
+    <br>
+        <button type="reset" class="btn btn-outline-secondary" >Reset entered information
+    </button>
+    <br>
+    <br>
+</form>
+<form action="{% url 'show_registration' %}">
+    <button type="submit" class="btn btn-outline-danger" >Get back to Task's list
+    </button>
+</form>
+{%endblock%}

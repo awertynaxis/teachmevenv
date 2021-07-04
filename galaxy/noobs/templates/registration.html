@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+<form action="{{'registration'}}" method="post">
+    {% csrf_token %}
+    <p>Entered mailbox is not found, u can create a new account via fill next form:</p>
+    {{form.as_ul}}
+    <p>
+        <input type="submit" value="Confirm"/>
+    </p>
+    <p>
+        <input type="reset" value="Reset entered information"/>
+    </p>
+</form>
+</body>
+</html>

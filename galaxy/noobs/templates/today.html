@@ -1,0 +1,26 @@
+{%extends "base.html" %}
+{% block content %}
+<head>
+    <meta charset="UTF-8">
+    <title>Task for today</title>
+</head>
+
+    {% if not object_list %}
+        There is no  task for today {{user}}!
+    {% endif %}
+    {% if object_list %}
+    Here your task for today {{user}}:
+    <ul>
+    {% for obj in object_list %}
+        <li>
+            <a class="btn btn-primary" href="{% url 'show_task_detail' obj.id%}" role="button">{{obj.title}}</a> :{{obj.date_created }}
+         </li>
+          {% endfor %}
+    </ul>
+     {% endif %}
+    <br>
+<form action="{% url 'show_registration' %}">
+    <button type="submit" class="btn btn-danger" >Get back to Task's list
+    </button>
+</form>
+{% endblock %}
