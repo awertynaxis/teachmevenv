@@ -1,0 +1,38 @@
+name: Docker Image CI
+
+on:
+  push:
+    branches: [ feature_teachmevenv ]
+  pull_request:
+    branches: [ feature_teachmevenv ]
+
+jobs:
+  start_install:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Set up python 3.8
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+      - name: Installing packages
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+  build_images:
+    if: github.ref == 'refs/heads/feature_teachmevenv'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Build the Docker image
+        run: docker build . --file Dockerfile --tag weddev
+      - name: Log in to GitHub Docker Registry
+        uses: docker/login-action@v1
+        with:
+          registry: docker.pkg.github.com
+          username: ${{ github.actor }}
+          password: ${{ secrets.GITHUB_TOKEN }}
+      - name: Add tag
+        run: docker tag weddev docker.pkg.github.com/awertynaxis/teachmevenv/weddev
+      - name: Push new image
+        run: docker push docker.pkg.github.com/awertynaxis/teachmevenv/weddev

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<body>
+<form action="{{ url_for('registration')}}" method="post">
+    <p>Entered mailbox is not found, u can create a new account via fill next form:</p>
+    <p>Enter your nickname:<p/>
+    <p>
+        <input type="text" name="nick_name"/>
+    </p>
+    <p>Enter your mailbox:<p/>
+    <p>
+        <input type="text" name="mailbox"/>
+    </p>
+    <p>Enter your password:<p/>
+    <p>
+        <input type="password" name="password">
+    </p>
+    <p>Confirm your password:<p/>
+    <p>
+        <input type="password" name="password_confirm">
+    </p>
+    <p>
+        <input type="submit" value="Confirm"/>
+    </p>
+    <p>
+        <input type="reset" value="Reset entered information"/>
+    </p>
+</form>
+</body>
+</html>

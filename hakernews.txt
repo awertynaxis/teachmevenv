@@ -1,0 +1,2041 @@
+[
+    {
+        "url": "https://make.wordpress.org/core/2021/04/18/proposal-treat-floc-as-a-security-concern/",
+        "author": "meattle",
+        "title": "WordPress Proposal to Treat Google's FLoC as a Security Concern",
+        "score": "129 points",
+        "comments": "33"
+    },
+    {
+        "url": "https://dashbit.co/blog/announcing-livebook?new=1",
+        "author": "bcardarella",
+        "title": "Livebook: A collaborative and interactive code notebook for Elixir",
+        "score": "223 points",
+        "comments": "18"
+    },
+    {
+        "url": "https://www.gwern.net/Search",
+        "author": "hargup",
+        "title": "Internet Search Tips",
+        "score": "88 points",
+        "comments": "10"
+    },
+    {
+        "url": "https://itamargilad.com/product-led/",
+        "author": "asplake",
+        "title": "Product-Led Is Just as Bad as Sales-Driven",
+        "score": "152 points",
+        "comments": "91"
+    },
+    {
+        "url": "https://madned.substack.com/p/thanks-for-the-bonus-i-quit",
+        "author": "todsacerdoti",
+        "title": "Thanks for the Bonus, I Quit",
+        "score": "1063 points",
+        "comments": "562"
+    },
+    {
+        "url": "https://github.com/IGJoshua/farolero",
+        "author": "suskeyhose",
+        "title": "Common Lisp Style Conditions for Clojure",
+        "score": "53 points",
+        "comments": "6"
+    },
+    {
+        "url": "https://scitechdaily.com/need-a-new-tooth-drug-discovered-to-regenerate-lost-teeth/",
+        "author": "awb",
+        "title": "Drug Discovered to Regenerate Lost Teeth",
+        "score": "122 points",
+        "comments": "27"
+    },
+    {
+        "url": "https://apply.workable.com/sketchdeck/j/CE6707EC56/",
+        "title": "SketchDeck (YC W14) is hiring engineers to launch a new product"
+    },
+    {
+        "url": "https://www.economist.com/science-and-technology/2021/04/14/taking-selfies-with-a-liquid-lens",
+        "author": "helsinkiandrew",
+        "title": "Taking selfies with a liquid lens: A smartphone with a fluid lens",
+        "score": "9 points"
+    },
+    {
+        "url": "https://scattered-thoughts.net/writing/internal-consistency-in-streaming-systems/",
+        "author": "barrkel",
+        "title": "Internal Consistency in Streaming Systems",
+        "score": "44 points",
+        "comments": "4"
+    },
+    {
+        "url": "https://www.atlasobscura.com/articles/soviet-childrens-books-in-india",
+        "author": "Thevet",
+        "title": "Soviet children\u2019s books became collectors\u2019 items in India",
+        "score": "187 points",
+        "comments": "81"
+    },
+    {
+        "url": "https://aidmin.io",
+        "author": "inssein",
+        "title": "Show HN: Aidmin \u2013 Web based database GUI for the whole organization",
+        "score": "18 points"
+    },
+    {
+        "url": "http://dl.ifip.org/db/conf/networking/networking2019/1570512603.pdf",
+        "author": "elvis70",
+        "title": "The Curious Case of Port 0 (2019) [pdf]",
+        "score": "53 points",
+        "comments": "11"
+    },
+    {
+        "url": "https://wikitech.wikimedia.org/wiki/Provenance",
+        "author": "tosh",
+        "title": "Wikimedia: wprov",
+        "score": "48 points",
+        "comments": "21"
+    },
+    {
+        "url": "https://arxiv.org/abs/2103.07487",
+        "author": "matt_d",
+        "title": "How Developers Choose Names",
+        "score": "114 points",
+        "comments": "91"
+    },
+    {
+        "author": "wideareanetwork",
+        "title": "Ask HN: I bought Voltaren at the chemist, now Google shows me ads for it. Why?",
+        "score": "194 points",
+        "comments": "319"
+    },
+    {
+        "url": "https://jakedeichert.com/blog/reducing-rust-incremental-compilation-times-on-macos-by-70-percent/",
+        "author": "yannikyeo",
+        "title": "Reducing Rust Incremental Compilation Times on macOS",
+        "score": "154 points",
+        "comments": "49"
+    },
+    {
+        "url": "https://midrange.tedium.co/issues/the-lone-coder-505212",
+        "author": "weare138",
+        "title": "The Lone Coder",
+        "score": "54 points",
+        "comments": "10"
+    },
+    {
+        "url": "https://boilingsteam.com/sid-meier-more-than-just-civilization/",
+        "author": "ekianjo",
+        "title": "Sid Meier: More Than Just Civilization",
+        "score": "94 points",
+        "comments": "84"
+    },
+    {
+        "url": "https://docs.microsoft.com/en-us/learn/paths/rust-first-steps/",
+        "author": "yannikyeo",
+        "title": "First steps with Rust",
+        "score": "178 points",
+        "comments": "68"
+    },
+    {
+        "url": "https://timdaub.github.io/2021/04/18/vaccination-bot-serenissimo/",
+        "author": "timdaub",
+        "title": "Show HN: My friend helped vaccinate 16 with a Telegram bot",
+        "score": "15 points",
+        "comments": "4"
+    },
+    {
+        "url": "https://www.gq.com/story/get-fit-from-just-walking",
+        "author": "ingve",
+        "title": "How Fit Can You Get from Just Walking?",
+        "score": "149 points",
+        "comments": "160"
+    },
+    {
+        "url": "https://www.nasdaq.com/articles/bitcoin-mining-hash-rate-drops-as-blackouts-instituted-in-china-2021-04-16",
+        "author": "blondie9x",
+        "title": "Bitcoin mining hash rate drops as blackouts instituted in China",
+        "score": "265 points",
+        "comments": "303"
+    },
+    {
+        "url": "https://www.go350.com/posts/replace-google-analytics-with-a-shell-script/",
+        "author": "_wldu",
+        "title": "Replace Google Analytics with a shell script",
+        "score": "232 points",
+        "comments": "89"
+    },
+    {
+        "url": "https://apnews.com/article/business-john-warnock-san-francisco-b77f216f52d736a6b5a383a429208f51",
+        "author": "thunderbong",
+        "title": "Chuck Geschke has died",
+        "score": "171 points",
+        "comments": "31"
+    },
+    {
+        "url": "https://www.os2museum.com/wp/nobody-expects/",
+        "author": "kencausey",
+        "title": "Nobody Expects...",
+        "score": "48 points",
+        "comments": "16"
+    },
+    {
+        "url": "https://www.quantamagazine.org/the-brain-rotates-memories-to-save-them-from-new-sensations-20210415/",
+        "author": "jnord",
+        "title": "The brain \u2018rotates\u2019 memories to save them from new sensations",
+        "score": "369 points",
+        "comments": "101"
+    },
+    {
+        "url": "https://kellyfoulk.herokuapp.com/post/7",
+        "author": "luu",
+        "title": "Logging Virtual Race Results with Selenium, Cron and Python",
+        "score": "34 points",
+        "comments": "5"
+    },
+    {
+        "url": "https://www.vice.com/en/article/qj8d9q/sex-workers-explain-why-the-safe-tech-act-will-break-the-internet",
+        "author": "elsewhen",
+        "title": "Sex Workers Explain Why the Safe Tech Act Will Break the Internet",
+        "score": "93 points",
+        "comments": "66"
+    },
+    {
+        "url": "https://www.reuters.com/technology/us-investigators-probing-breach-san-francisco-code-testing-company-firm-2021-04-16/",
+        "author": "mmaunder",
+        "title": "Codecov breach impacts GoDaddy, Atlassian, P&G etc.",
+        "score": "167 points",
+        "comments": "62"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=htk6eXxpSNA",
+        "author": "nik12795",
+        "title": "Show HN: I built a Guitar Hero robot [video]",
+        "score": "309 points",
+        "comments": "111"
+    },
+    {
+        "url": "https://oeis.org/",
+        "author": "pseudolus",
+        "title": "The On-Line Encyclopedia of Integer Sequences",
+        "score": "139 points",
+        "comments": "28"
+    },
+    {
+        "url": "https://www.justsecurity.org/75741/chinas-dystopian-new-ip-plan-shows-need-for-renewed-us-commitment-to-internet-governance/",
+        "author": "ur",
+        "title": "China\u2019s Dystopian \u201cNew IP\u201d Plan for a New Internet",
+        "score": "129 points",
+        "comments": "67"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Wireless_USB",
+        "author": "firefoxd",
+        "title": "Wireless USB",
+        "score": "17 points",
+        "comments": "5"
+    },
+    {
+        "url": "https://blog.digital-horror.com/rediscovering-hamming-code/",
+        "author": "juxhindb",
+        "title": "Rediscovering Hamming Code",
+        "score": "3 points"
+    },
+    {
+        "url": "https://www.npr.org/2021/04/16/985439655/a-worst-nightmare-cyberattack-the-untold-story-of-the-solarwinds-hack",
+        "author": "bokchoi",
+        "title": "The Story of the SolarWinds Hack",
+        "score": "282 points",
+        "comments": "112"
+    },
+    {
+        "url": "https://www.bbc.com/news/stories-56688582",
+        "author": "rakhodorkovsky",
+        "title": "Nil-by-mouth foodie: A chef who will never eat again",
+        "score": "19 points",
+        "comments": "11"
+    },
+    {
+        "url": "https://ash.ms/2019-10-02/retro-website-launch/",
+        "author": "cardamomo",
+        "title": "Retro nostalgia and why my new website looks like Window 9x (2019)",
+        "score": "271 points",
+        "comments": "125"
+    },
+    {
+        "url": "https://arstechnica.com/science/2021/04/novel-hydrogels-can-safely-remove-graffiti-from-vandalized-street-art/",
+        "author": "pseudolus",
+        "title": "Novel hydrogels can safely remove graffiti from vandalized street art",
+        "score": "4 points"
+    },
+    {
+        "url": "https://www.the-tls.co.uk/articles/hearing-happiness-jaipreet-virdi-review-jonathan-ree/",
+        "author": "tintinnabula",
+        "title": "Heard instinct: Deafness and the prosthetics for overcoming it",
+        "score": "15 points",
+        "comments": "5"
+    },
+    {
+        "url": "https://projectlovelace.net/problems/",
+        "author": "PolarizedPoutin",
+        "title": "Show HN: Science and math-flavored programming problems for beginners",
+        "score": "333 points",
+        "comments": "67"
+    },
+    {
+        "author": "mparkola",
+        "title": "Ask HN: What was the biggest leadership challenge of your career?",
+        "score": "222 points",
+        "comments": "196"
+    },
+    {
+        "url": "https://hacks.mozilla.org/2021/04/quic-and-http-3-support-now-in-firefox-nightly-and-beta/",
+        "author": "caution",
+        "title": "QUIC and HTTP/3 Support Now in Firefox Nightly and Beta",
+        "score": "485 points",
+        "comments": "136"
+    },
+    {
+        "url": "http://bef.no/radio/",
+        "author": "AgoRapide",
+        "title": "Show HN: Giving my mother-in-law an easy internet radio with real icon buttons",
+        "score": "225 points",
+        "comments": "114"
+    },
+    {
+        "url": "https://ideolalia.com/essays/trapped-in-the-technologist-factory.html",
+        "author": "myth_drannon",
+        "title": "Trapped in the Technologist Factory",
+        "score": "15 points"
+    },
+    {
+        "url": "https://berthub.eu/articles/posts/5g-elephant-in-the-room/",
+        "author": "sam_lowry_",
+        "title": "5G: The outsourced elephant in the room",
+        "score": "545 points",
+        "comments": "233"
+    },
+    {
+        "url": "https://www.destroyallsoftware.com/talks/wat",
+        "author": "mikasjp",
+        "title": "Wat (2012) [video]",
+        "score": "131 points",
+        "comments": "24"
+    },
+    {
+        "url": "https://notalwaysright.com/stamping-the-joy-out-of-collectors/224082/",
+        "author": "jasonhansel",
+        "title": "Stamping the joy out of collectors",
+        "score": "147 points",
+        "comments": "121"
+    },
+    {
+        "url": "https://altsear.ch/",
+        "author": "quickthrower2",
+        "title": "Show HN: Altsear.ch - you can get by without using Google/Yahoo/Bing to search",
+        "score": "5 points",
+        "comments": "4"
+    },
+    {
+        "url": "https://www.extremetech.com/gaming/321919-alienware-really-doesnt-want-you-to-buy-an-amd-ryzen-pc",
+        "author": "basilgohar",
+        "title": "Alienware Doesn\u2019t Want You to Buy an AMD Ryzen PC",
+        "score": "251 points",
+        "comments": "116"
+    },
+    {
+        "url": "https://theamericanscholar.org/poetry-in-the-abstract/",
+        "author": "Hooke",
+        "title": "Poetry in the Abstract: What happens when scientists write haiku?",
+        "score": "18 points"
+    },
+    {
+        "url": "https://blog.harterrt.com/opportunity_sizing.html",
+        "author": "harterrt",
+        "title": "Opportunity Sizing: Is the Juice Worth the Squeeze?",
+        "score": "60 points",
+        "comments": "21"
+    },
+    {
+        "url": "https://www.smithsonianmag.com/innovation/a-potato-battery-can-light-up-a-room-for-over-a-month-180948260/",
+        "author": "miles",
+        "title": "A potato battery can light up a room for over a month (2013)",
+        "score": "65 points",
+        "comments": "66"
+    },
+    {
+        "url": "https://www.sapiens.org/archaeology/archaeology-notre-dame-cathedral/",
+        "author": "CapitalistCartr",
+        "title": "Archaeology in the Ashes of Notre Dame",
+        "score": "51 points",
+        "comments": "7"
+    },
+    {
+        "url": "https://warzel.substack.com/p/a-ship-got-stuck-so-he-built-a-website",
+        "author": "DevilMadeMeDoIT",
+        "title": "When 70M people visit your joke site",
+        "score": "230 points",
+        "comments": "75"
+    },
+    {
+        "url": "https://www.ccc.de/en/updates/2021/luca-app-ccc-fordert-bundesnotbremse",
+        "author": "hacka22",
+        "title": "Luca App: CCC calls for a moratorium",
+        "score": "563 points",
+        "comments": "163"
+    },
+    {
+        "url": "https://www.thenation.com/article/culture/sarah-wasserman-death-of-things-review/",
+        "author": "samclemens",
+        "title": "\u2018Things\u2019 in Fiction Shape the Way We Read",
+        "score": "40 points",
+        "comments": "2"
+    },
+    {
+        "url": "https://niemarwinget.medium.com/winget-is-terrible-i-want-appget-back-41b3ca598596",
+        "author": "lucumo",
+        "title": "WinGet is terrible, I want AppGet back",
+        "score": "226 points",
+        "comments": "130"
+    },
+    {
+        "url": "https://no-sandbox.io/",
+        "author": "simonpure",
+        "title": "No Sandbox \u2013 Applications That Run Chromium Without the Sandbox",
+        "score": "26 points",
+        "comments": "8"
+    },
+    {
+        "url": "https://blog.google/products/earth/timelapse-in-google-earth/",
+        "author": "braymundo",
+        "title": "Time flies in Google Earth\u2019s biggest update in years",
+        "score": "1196 points",
+        "comments": "409"
+    },
+    {
+        "url": "https://aeon.co/essays/how-the-fall-of-the-roman-empire-paved-the-road-to-modernity",
+        "author": "diodorus",
+        "title": "The Road from Rome",
+        "score": "27 points",
+        "comments": "7"
+    },
+    {
+        "url": "https://trekhleb.dev/blog/2021/content-aware-image-resizing-in-javascript/",
+        "author": "mmazzarolo",
+        "title": "Content-aware image resizing in JavaScript",
+        "score": "461 points",
+        "comments": "61"
+    },
+    {
+        "url": "https://www.washingtonpost.com/business/2021/04/16/peloton-treadmill-injuries-death-cpsc/",
+        "author": "joering2",
+        "title": "Regulators urge safety recall of Peloton treadmill after child dies",
+        "score": "263 points",
+        "comments": "306"
+    },
+    {
+        "url": "https://authzed.com/blog/onboarding-with-an-m1/",
+        "author": "ingve",
+        "title": "Onboarding with an M1",
+        "score": "154 points",
+        "comments": "149"
+    },
+    {
+        "url": "https://liw.fi/readme-review/",
+        "author": "edward",
+        "title": "I'd like to review your README",
+        "score": "318 points",
+        "comments": "89"
+    },
+    {
+        "url": "https://pubmed.ncbi.nlm.nih.gov/26629551/",
+        "author": "evo_9",
+        "title": "Inflammation, but Not Telomere Length, Predicts Ageing at Extreme Old Age",
+        "score": "292 points",
+        "comments": "145"
+    },
+    {
+        "url": "https://serhack.me/articles/how-to-write-technical-book/",
+        "author": "crecker",
+        "title": "How to Write a Technical Book",
+        "score": "116 points",
+        "comments": "7"
+    },
+    {
+        "url": "http://www.righto.com/2021/04/reverse-engineering-vintage-comparator.html",
+        "author": "robin_reala",
+        "title": "Reverse-engineering a vintage comparator chip",
+        "score": "3 points"
+    },
+    {
+        "url": "https://cloudoptimizer.io",
+        "author": "freediver",
+        "title": "Show HN: Easy cloud instance comparison (AWS, GCP, Azure, IBM, Alibaba and more)",
+        "score": "102 points",
+        "comments": "42"
+    },
+    {
+        "url": "https://torrentfreak.com/github-reinstated-youtube-dl-but-restoring-forks-is-apparently-a-problem-210417/",
+        "author": "TangerineDream",
+        "title": "GitHub reinstated youtube-dl but restoring forks is apparently a problem",
+        "score": "218 points",
+        "comments": "84"
+    },
+    {
+        "url": "https://arstechnica.com/science/2018/09/let-science-be-your-guide-for-the-perfect-labor-day-bbq/",
+        "author": "Tomte",
+        "title": "Successful BBQ pork butt and brisket is science (2018)",
+        "score": "235 points",
+        "comments": "146"
+    },
+    {
+        "url": "https://charigyang.github.io/motiongroup/",
+        "author": "Hard_Space",
+        "title": "Self-Supervised Video Object Segmentation by Motion Grouping",
+        "score": "189 points",
+        "comments": "24"
+    },
+    {
+        "url": "https://www.reuters.com/business/us-house-committee-approves-blueprint-big-tech-crackdown-2021-04-15/",
+        "author": "throwawaysea",
+        "title": "U.S. House committee approves blueprint for Big Tech crackdown",
+        "score": "417 points",
+        "comments": "424"
+    },
+    {
+        "url": "https://tips.ariyh.com/p/good-sound-quality-smarter",
+        "author": "tdmckinlay",
+        "title": "Higher quality audio makes people sound smarter",
+        "score": "905 points",
+        "comments": "496"
+    },
+    {
+        "url": "https://www.sec.gov/Archives/edgar/data/1496963/000110465921051251/tm213918-6_s1.htm",
+        "author": "pabl8k",
+        "title": "Squarespace S1",
+        "score": "351 points",
+        "comments": "136"
+    },
+    {
+        "url": "https://www.nber.org/digest/mar05/do-real-estate-agents-exploit-their-information-advantage",
+        "author": "brudgers",
+        "title": "Real estate agent-owned homes are on the market longer and sell for more (2005)",
+        "score": "68 points",
+        "comments": "93"
+    },
+    {
+        "url": "https://standardnotes.org",
+        "author": "sealeck",
+        "title": "Standard Notes is a safe place for your notes, thoughts, and life's work",
+        "score": "276 points",
+        "comments": "240"
+    },
+    {
+        "url": "https://shkspr.mobi/blog/2021/04/whats-the-origin-of-the-phrase-big-data-doesnt-fit-in-excel/",
+        "author": "edent",
+        "title": "What\u2019s the origin of the phrase \u201cbig data doesn\u2019t fit in excel\u201d?",
+        "score": "121 points",
+        "comments": "72"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Grigori_Perelman",
+        "author": "jkuria",
+        "title": "Grigori Perelman (Solver of Poincare Conjecture)",
+        "score": "17 points"
+    },
+    {
+        "url": "https://nvlabs.github.io/GANcraft/",
+        "author": "lnyan",
+        "title": "GANcraft: Unsupervised 3D Neural Rendering of Minecraft Worlds",
+        "score": "344 points",
+        "comments": "60"
+    },
+    {
+        "url": "https://www.washingtonpost.com/outlook/2021/04/15/psychology-innovation-subtraction-addition/",
+        "author": "pcl",
+        "title": "We instinctively add on new features and fixes. Why don\u2019t we subtract instead?",
+        "score": "19 points",
+        "comments": "18"
+    },
+    {
+        "url": "https://jonatron.github.io/webgl-fingerprinting/",
+        "author": "jonatron",
+        "title": "Are top websites using WebGL for fingerprinting?",
+        "score": "397 points",
+        "comments": "209"
+    },
+    {
+        "url": "https://christine.website/blog/dev-printerfact-2021-04-17",
+        "author": "todsacerdoti",
+        "title": "I Implemented /dev/printerfact in Rust",
+        "score": "158 points",
+        "comments": "78"
+    },
+    {
+        "url": "https://frankchimero.com/blog/2018/everything-easy/",
+        "author": "todsacerdoti",
+        "title": "Everything Easy is Hard Again (2018)",
+        "score": "317 points",
+        "comments": "244"
+    },
+    {
+        "url": "https://github.com/TobyLobster/ManicMiner2021",
+        "author": "ingve",
+        "title": "Manic Miner 2021 for the BBC Micro",
+        "score": "25 points",
+        "comments": "2"
+    },
+    {
+        "url": "https://github.com/bzg/woof",
+        "author": "todsacerdoti",
+        "title": "Bzg/woof: online monitor for mailing list based patch workflow",
+        "score": "48 points",
+        "comments": "15"
+    },
+    {
+        "url": "https://writeusefulbooks.com/resources/why-nonfiction-fails-to-make-money/",
+        "author": "rjyoungling",
+        "title": "Why most non-fiction authors don't make any money",
+        "score": "181 points",
+        "comments": "108"
+    },
+    {
+        "url": "https://their.news",
+        "author": "Hadjimina",
+        "title": "Show HN: Compare news from the political left and right",
+        "score": "211 points",
+        "comments": "117"
+    },
+    {
+        "url": "https://berlintypography.wordpress.com/2017/07/11/the-many-faces-of-the-u7/",
+        "author": "Clewza313",
+        "title": "The Many Faces of Berlin U-Bahn Line U7",
+        "score": "143 points",
+        "comments": "30"
+    },
+    {
+        "url": "https://nautil.us/issue/99/universality/the-weak-case-for-grit",
+        "author": "dnetesn",
+        "title": "Where\u2019s the evidence that grit predicts success?",
+        "score": "132 points",
+        "comments": "157"
+    },
+    {
+        "author": "arjun_s",
+        "title": "Ask HN: Is there an accounting platform for a crypto first company?",
+        "score": "12 points",
+        "comments": "24"
+    },
+    {
+        "url": "https://victorribeiro.com/pixelPhysics/",
+        "author": "atum47",
+        "title": "Show HN: Pixel Physics",
+        "score": "7 points"
+    },
+    {
+        "url": "https://www.pcgamer.com/meet-the-original-streamer-who-ran-his-own-public-access-gaming-show-in-1993/",
+        "author": "danso",
+        "title": "The original streamer, who ran his own public access gaming show in 1993",
+        "score": "121 points",
+        "comments": "22"
+    },
+    {
+        "url": "https://blog.steve.fi/having_fun_with_cp_m_on_a_z80_single_board_computer_.html",
+        "author": "stevekemp",
+        "title": "Having fun with CP/M on a Z80 single-board computer",
+        "score": "78 points",
+        "comments": "17"
+    },
+    {
+        "url": "https://news.artnet.com/art-world/lost-painting-under-picasso-masterpiece-recreated-as-an-nft-1957407",
+        "author": "maxwell",
+        "title": "Lost Painting Buried Under a Picasso Rediscovered, 3D Printed, and Tokenized",
+        "score": "10 points",
+        "comments": "4"
+    },
+    {
+        "url": "https://www.the-tls.co.uk/articles/pierre-janet-and-the-budget-of-life/",
+        "author": "Hooke",
+        "title": "Pierre Janet and the Budget of Life",
+        "score": "3 points"
+    },
+    {
+        "url": "http://www.molecularassembler.com/KSRM.htm",
+        "author": "ramboldio",
+        "title": "Kinematic Self-Replicating Machines (2004)",
+        "score": "61 points",
+        "comments": "27"
+    },
+    {
+        "url": "https://current.org/2015/06/a-top-audio-engineer-explains-nprs-signature-sound/",
+        "author": "paulpauper",
+        "title": "A top audio engineer explains NPR\u2019s signature sound (2015)",
+        "score": "281 points",
+        "comments": "186"
+    },
+    {
+        "url": "https://www.reuters.com/article/us-tsmc-results-idUSKBN2C20IH",
+        "author": "tosh",
+        "title": "TSMC sees chip shortage lasting into 2022",
+        "score": "375 points",
+        "comments": "232"
+    },
+    {
+        "url": "https://www.tomshardware.com/news/openfive-tapes-out-5nm-risc-v-soc",
+        "author": "pabs3",
+        "title": "SiFive Tapes Out First 5nm TSMC 32-bit RISC-V Chip with 7.2 Gbps HBM3",
+        "score": "189 points",
+        "comments": "80"
+    },
+    {
+        "url": "https://jackson.sh/posts/2021-04-java-underrated/",
+        "author": "Jaxkr",
+        "title": "Java Is Underhyped",
+        "score": "347 points",
+        "comments": "754"
+    },
+    {
+        "url": "https://www.beefrii.com",
+        "author": "MaxCool",
+        "title": "Show HN: Free Remote jobs search platform with verified handpicked jobs",
+        "score": "89 points",
+        "comments": "51"
+    },
+    {
+        "author": "snakedoctor",
+        "title": "Ask HN: How can a unhireable person get a job?",
+        "score": "519 points",
+        "comments": "804"
+    },
+    {
+        "url": "https://www.vugu.org/",
+        "author": "kodah",
+        "title": "Vugu: Vue-like frontends in pure Go, HTML, and CSS",
+        "score": "140 points",
+        "comments": "29"
+    },
+    {
+        "url": "https://ai.facebook.com/blog/flashlight-fast-and-flexible-machine-learning-in-c-plus-plus/",
+        "author": "andyxor",
+        "title": "Flashlight: Fast and flexible machine learning in C++",
+        "score": "147 points",
+        "comments": "83"
+    },
+    {
+        "url": "https://www.bbc.com/news/science-environment-56749105",
+        "author": "pseudolus",
+        "title": "'Whitest ever' paint reflects 98% of sunlight",
+        "score": "333 points",
+        "comments": "253"
+    },
+    {
+        "url": "https://longreads.com/2021/03/23/nation-of-plants-excerpt-stefano-mancuso/",
+        "author": "Petiver",
+        "title": "Why bumblebees love cats and other beautiful relationships",
+        "score": "161 points",
+        "comments": "72"
+    },
+    {
+        "url": "https://www.bloomberg.com/news/articles/2021-04-17/spac-wipeout-is-punishing-followers-of-chamath-palihapitiya",
+        "author": "CPLX",
+        "title": "SPAC Wipeout Is Punishing Followers of Chamath Palihapitiya",
+        "score": "85 points",
+        "comments": "54"
+    },
+    {
+        "url": "https://www.righto.com/2021/04/reverse-engineering-vintage-comparator.html",
+        "author": "parsecs",
+        "title": "Reverse-engineering a vintage comparator chip",
+        "score": "12 points",
+        "comments": "3"
+    },
+    {
+        "url": "https://blog.zorin.com/2021/04/15/introducing-zorin-os-16-test-the-beta-today/",
+        "author": "oedmarap",
+        "title": "Zorin OS 16",
+        "score": "101 points",
+        "comments": "75"
+    },
+    {
+        "url": "https://english.radio.cz/czech-government-accuse-russia-involvement-explosion-expel-18-embassy-staff-8715080",
+        "author": "mvolfik",
+        "title": "Czech PM claims Russia played major role in 2014 ammunition warehouse explosion",
+        "score": "64 points",
+        "comments": "16"
+    },
+    {
+        "url": "https://daydreamer.app",
+        "author": "abrdk",
+        "title": "Show HN: Daydreamer \u2013 put your ideas on a timeline",
+        "score": "11 points",
+        "comments": "10"
+    },
+    {
+        "url": "https://www.cantorsparadise.com/the-duties-of-john-von-neumanns-assistant-in-the-1930s-8d08e538fe2b",
+        "author": "jorgenveisdal",
+        "title": "The Duties of John von Neumann\u2019s Assistant in the 1930s (2020)",
+        "score": "102 points",
+        "comments": "59"
+    },
+    {
+        "url": "https://developer.nvidia.com/blog/unifying-the-cuda-python-ecosystem/",
+        "author": "pjmlp",
+        "title": "Unifying the CUDA Python Ecosystem",
+        "score": "140 points",
+        "comments": "58"
+    },
+    {
+        "url": "https://twitter.com/Model3Owners/status/1383545728488808453",
+        "author": "Zhenya",
+        "title": "Tesla safety report claims to be 2x safer than other cars",
+        "score": "11 points",
+        "comments": "5"
+    },
+    {
+        "url": "https://komento.host",
+        "author": "oknoorap",
+        "title": "Show HN: Decentralized Comment Hosting Powered by IPFS",
+        "score": "22 points",
+        "comments": "4"
+    },
+    {
+        "url": "https://github.com/WICG/floc/issues/100",
+        "author": "Hard_Space",
+        "title": "Cohort IDs can be collected over time to create cross-site tracking IDs",
+        "score": "396 points",
+        "comments": "178"
+    },
+    {
+        "url": "https://digesttime.com/2021/04/16/nassim-taleb-bitcoin-failed-as-a-currency-and-became-a-speculative-ponzi-scheme/",
+        "author": "thefoodboylover",
+        "title": "Nassim Taleb: Bitcoin failed as a currency and became a speculative ponzi scheme",
+        "score": "425 points",
+        "comments": "397"
+    },
+    {
+        "url": "https://lithub.com/in-defense-of-the-present-tense/",
+        "author": "prismatic",
+        "title": "In Defense of the Present Tense (2015)",
+        "score": "30 points",
+        "comments": "20"
+    },
+    {
+        "url": "https://www.washingtonpost.com/technology/2021/04/16/nasa-lunar-lander-contract-spacex/",
+        "author": "sbuttgereit",
+        "title": "SpaceX wins contract to develop spacecraft to land astronauts on the moon",
+        "score": "635 points",
+        "comments": "326"
+    },
+    {
+        "url": "https://njms.ca/posts/ethical-anti-design.html",
+        "author": "podiki",
+        "title": "Ethical anti-design, or designing products that people can't get addicted to",
+        "score": "263 points",
+        "comments": "104"
+    },
+    {
+        "url": "https://www.filestash.app/2021/04/16/ftp-is-50-years-old/",
+        "author": "elvis70",
+        "title": "FTP is 50 years old",
+        "score": "412 points",
+        "comments": "182"
+    },
+    {
+        "url": "https://512pixels.net/2021/04/mac-chimes-of-death/",
+        "author": "zdw",
+        "title": "Mac Chimes of Death",
+        "score": "301 points",
+        "comments": "78"
+    },
+    {
+        "url": "https://blog.ycombinator.com/coinbase-from-yc-to-ipo/",
+        "author": "todsacerdoti",
+        "title": "Coinbase from YC to DPO",
+        "score": "712 points",
+        "comments": "841"
+    },
+    {
+        "url": "https://www.theblockcrypto.com/linked/102007/bitcoin-plunge-7-billion-liquidation",
+        "author": "awb",
+        "title": "$7.6B in crypto long positions liquidated in 1 hour as Bitcoin plunges to $52k",
+        "score": "43 points",
+        "comments": "86"
+    },
+    {
+        "url": "https://puri.sm/posts/librem-14-begins-shipping/",
+        "author": "nathancahill",
+        "title": "Librem 14 begins shipping",
+        "score": "241 points",
+        "comments": "146"
+    },
+    {
+        "url": "https://stitcher.io/blog/php-in-2021",
+        "author": "nowandlater",
+        "title": "PHP in 2021",
+        "score": "271 points",
+        "comments": "289"
+    },
+    {
+        "url": "https://www.aeaweb.org/research/research-universities-incentives-resources-virtuous-circles-us",
+        "author": "rustoo",
+        "title": "Why the United States has the best research universities",
+        "score": "130 points",
+        "comments": "244"
+    },
+    {
+        "url": "https://twitter.com/matteocollina/status/1383088800209977346",
+        "author": "macando",
+        "title": "Node.js v16 is coming and it ships with a fat binary for macOS",
+        "score": "6 points"
+    },
+    {
+        "url": "https://www.irishtimes.com/business/technology/google-used-double-irish-to-shift-75-4bn-in-profits-out-of-ireland-1.4540519",
+        "author": "nixass",
+        "title": "Google used \u2018double-Irish\u2019 to shift $75.4B in profits out of Ireland",
+        "score": "172 points",
+        "comments": "181"
+    },
+    {
+        "url": "https://www.nature.com/articles/s42254-020-00273-3",
+        "author": "abscond",
+        "title": "Foundations of Complexity Economics",
+        "score": "95 points",
+        "comments": "28"
+    },
+    {
+        "url": "https://forums.aws.amazon.com/thread.jspa?threadID=84461",
+        "author": "fctorial",
+        "title": "Hardware Failure on EC2",
+        "score": "23 points",
+        "comments": "17"
+    },
+    {
+        "url": "https://uxdesign.cc/why-has-no-one-made-a-better-goodreads-dfc9cb9e149a",
+        "author": "bagofbones",
+        "title": "Why has no one made a better Goodreads",
+        "score": "393 points",
+        "comments": "271"
+    },
+    {
+        "url": "https://www.pjb.com.au/mus/wagner",
+        "author": "thombles",
+        "title": "The Leitmotifs of Wagner's Ring",
+        "score": "53 points",
+        "comments": "23"
+    },
+    {
+        "url": "https://twitter.com/NASA/status/1383483430235557889",
+        "author": "1915cb1f",
+        "title": "Mars helicopter flight scheduled for Monday 6:15 AM ET",
+        "score": "26 points"
+    },
+    {
+        "url": "https://tribunemag.co.uk/2021/04/the-signs-that-make-a-city",
+        "author": "emailed",
+        "title": "The signs that make a city",
+        "score": "63 points",
+        "comments": "2"
+    },
+    {
+        "url": "https://tinytools.directory/",
+        "author": "feross",
+        "title": "Open source, experimental, and tiny tools roundup",
+        "score": "259 points",
+        "comments": "25"
+    },
+    {
+        "author": "ash_haddad",
+        "title": "AI Towards a Global Good Citizen System",
+        "score": "5 points",
+        "comments": "9"
+    },
+    {
+        "url": "https://www.buyforlife.com/",
+        "author": "emre",
+        "title": "Buy it for life: Durable, Quality, Practical",
+        "score": "95 points",
+        "comments": "96"
+    },
+    {
+        "url": "https://paramdeo.com/blog/opting-your-website-out-of-googles-floc-network",
+        "author": "oedmarap",
+        "title": "Opting Your Website Out of Google's FLoC Network",
+        "score": "576 points",
+        "comments": "247"
+    },
+    {
+        "url": "https://github.com/RobinLinus/my-tiny-little-infinite-universe",
+        "author": "Capira",
+        "title": "Show HN: My Tiny Little Infinite Universe",
+        "score": "15 points"
+    },
+    {
+        "url": "https://github.com/geohot/qira",
+        "author": "peter_d_sherman",
+        "title": "QEMU Interactive Runtime Analyser",
+        "score": "4 points"
+    },
+    {
+        "url": "https://web.dahliaos.io/",
+        "author": "denysvitali",
+        "title": "Pangolin UI, a Desktop Shell, Written in Flutter, for Linux and Zircona",
+        "score": "147 points",
+        "comments": "124"
+    },
+    {
+        "url": "https://outlookzen.com/2014/03/06/the-crimean-crisis-and-western-bias/",
+        "author": "whack",
+        "title": "The Crimean \u201cCrisis\u201d and Western Bias",
+        "score": "19 points",
+        "comments": "2"
+    },
+    {
+        "url": "https://apnews.com/article/politics-malware-national-security-email-software-f51e53523312b87121146de8fd7c0020",
+        "author": "mikece",
+        "title": "SolarWinds hacking campaign puts Microsoft in hot seat",
+        "score": "40 points",
+        "comments": "21"
+    },
+    {
+        "url": "https://stackoverflow.blog/2021/04/14/understanding-quantum-computing-through-drunken-walks/",
+        "author": "nsoonhui",
+        "title": "Understanding quantum computing through drunken walks",
+        "score": "61 points",
+        "comments": "17"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=rpB6zQNsbQU",
+        "author": "ttsiodras",
+        "title": "Seam carving (2020) [video]",
+        "score": "161 points",
+        "comments": "11"
+    },
+    {
+        "url": "https://shortdoi.org/",
+        "author": "cifkao",
+        "title": "ShortDOI Service (2013)",
+        "score": "26 points",
+        "comments": "10"
+    },
+    {
+        "url": "https://httptoolkit.tech/blog/http-search-method/",
+        "author": "jcubic",
+        "title": "Defining a new HTTP method: HTTP SEARCH",
+        "score": "30 points",
+        "comments": "17"
+    },
+    {
+        "url": "http://pluto.jhuapl.edu/News-Center/News-Article.php?page=20210415",
+        "author": "sohkamyung",
+        "title": "New Horizons now 50AUs from the sun, shoots starfield containing Voyager 1",
+        "score": "108 points",
+        "comments": "28"
+    },
+    {
+        "url": "https://github.com/signalapp/Signal-Android/issues/11160",
+        "author": "nh2",
+        "title": "Corrupt Signal DB issue crashing App and losing data",
+        "score": "117 points",
+        "comments": "74"
+    },
+    {
+        "url": "https://thereader.mitpress.mit.edu/le-corbusier-as-i-knew-him/",
+        "author": "item",
+        "title": "Le Corbusier as I Knew Him (1977)",
+        "score": "52 points",
+        "comments": "33"
+    },
+    {
+        "url": "https://github.com/hypotext/notation",
+        "author": "zzq",
+        "title": "Collection of Quotes on Notation Design",
+        "score": "39 points",
+        "comments": "2"
+    },
+    {
+        "url": "https://medium.math.dev/lisp-the-web-4c00c88d11f9",
+        "author": "abhinav22",
+        "title": "Lisp and the Web: Creating Web Apps Through Lisp and GCE",
+        "score": "157 points",
+        "comments": "57"
+    },
+    {
+        "url": "https://nautil.us/issue/99/universality/how-my-octopus-teacher-defied-convention",
+        "author": "dnetesn",
+        "title": "\u201cMy Octopus Teacher\u201d defied convention",
+        "score": "103 points",
+        "comments": "96"
+    },
+    {
+        "url": "https://www.nbclosangeles.com/news/california-news/missing-hiker-mt-waterman-photo-search/2572468/",
+        "author": "danso",
+        "title": "Missing hiker found after man using computer at home pinpoints his location",
+        "score": "205 points",
+        "comments": "178"
+    },
+    {
+        "url": "https://torrentfreak.com/reckless-dmca-takedown-purges-legitimate-websites-from-google-search-210417/",
+        "author": "URfejk",
+        "title": "Reckless DMCA Takedown Purges Legitimate Websites from Google Search",
+        "score": "6 points"
+    },
+    {
+        "url": "https://www.accc.gov.au/media-release/google-misled-consumers-about-the-collection-and-use-of-location-data",
+        "author": "Khaine",
+        "title": "Google misled consumers about the collection and use of location data",
+        "score": "532 points",
+        "comments": "86"
+    },
+    {
+        "url": "https://element.io/blog/ems-launches-bridging-for-microsoft-teams/",
+        "author": "anotherevan",
+        "title": "Element Matrix Services Launches Bridging for Microsoft Teams",
+        "score": "196 points",
+        "comments": "87"
+    },
+    {
+        "url": "https://www.gwern.net/Death-Note-Anonymity",
+        "author": "pwg",
+        "title": "Death Note: L, Anonymity and Eluding Entropy",
+        "score": "54 points",
+        "comments": "10"
+    },
+    {
+        "url": "https://restofworld.org/2021/the-rise-and-fall-of-missed-calls-in-india/",
+        "author": "lordylord",
+        "title": "Don't Pick Up: Missed calls in India",
+        "score": "293 points",
+        "comments": "117"
+    },
+    {
+        "url": "https://goteleport.com/blog/u2f-lessons-learned/",
+        "author": "dylanz",
+        "title": "What I Wish I Knew About U2F and Other Hardware MFA Protocols",
+        "score": "116 points",
+        "comments": "87"
+    },
+    {
+        "url": "https://news.ycombinator.com/item?id=3754664",
+        "author": "swyx",
+        "title": "Brian Armstrong seeking cofounder on HN (2012)",
+        "score": "279 points",
+        "comments": "178"
+    },
+    {
+        "url": "https://extensionlist.io/",
+        "author": "bhsand970",
+        "title": "I made the first independent extension store",
+        "score": "21 points",
+        "comments": "3"
+    },
+    {
+        "url": "https://hackaday.com/2021/04/14/morrowind-rebooted-the-original-xbox-without-you-ever-noticing/",
+        "author": "pmarin",
+        "title": "Morrowind rebooted the original Xbox",
+        "score": "239 points",
+        "comments": "162"
+    },
+    {
+        "url": "https://lkml.org/lkml/2021/4/14/1099",
+        "author": "EvgeniyZh",
+        "title": "Linus Torvalds on Rust support in kernel",
+        "score": "620 points",
+        "comments": "287"
+    },
+    {
+        "url": "https://charity.wtf/2021/01/23/questionable-advice-how-do-i-feel-worthwhile-as-a-manager-when-my-people-are-doing-all-the-implementing/",
+        "author": "janandonly",
+        "title": "How to feel worthwhile as a manager when my people are doing all the work?",
+        "score": "13 points",
+        "comments": "3"
+    },
+    {
+        "url": "https://nymag.com/intelligencer/2021/04/nft-future-of-money.html",
+        "author": "known",
+        "title": "There\u2019s Nothing to Do Except Gamble",
+        "score": "261 points",
+        "comments": "390"
+    },
+    {
+        "url": "https://human-id.org/",
+        "author": "fapi1974",
+        "title": "One-Click Anonymous Login",
+        "score": "75 points",
+        "comments": "95"
+    },
+    {
+        "url": "https://www.cockroachlabs.com/blog/go-file-size-update/",
+        "author": "alexbilbie",
+        "title": "My Go executable files are still getting larger",
+        "score": "260 points",
+        "comments": "164"
+    },
+    {
+        "url": "https://www.epicgames.com/site/en-US/expiration-date-4-6-2021",
+        "author": "gwtabn",
+        "title": "Epic Games certificate expiration incident report",
+        "score": "106 points",
+        "comments": "78"
+    },
+    {
+        "url": "https://thegradient.pub/attention-in-human-brain-and-its-applications-in-ml/",
+        "author": "jonbaer",
+        "title": "Attention in the Human Brain and Its Applications in ML",
+        "score": "5 points"
+    },
+    {
+        "url": "https://www.axios.com/t-rex-billion-dinosaur-population-estimates-study-bbee965b-268c-4afc-9dc7-f9f9901ab080.html",
+        "author": "jimmy2020",
+        "title": "2.5B T. rex inhabited the planet, researchers say",
+        "score": "66 points",
+        "comments": "58"
+    },
+    {
+        "url": "https://github.blog/2021-04-15-work-with-github-actions-in-your-terminal-with-github-cli/",
+        "author": "todsacerdoti",
+        "title": "Work with GitHub Actions in Your Terminal with GitHub CLI",
+        "score": "138 points",
+        "comments": "66"
+    },
+    {
+        "url": "https://languagemap.nyc/",
+        "author": "pseudolus",
+        "title": "Languages of New York City \u2013 Interactive Map",
+        "score": "6 points"
+    },
+    {
+        "url": "https://abc17news.com/news/national-world/2021/04/14/france-cuts-two-nuclear-powered-submarines-in-half-to-make-one-new-one/",
+        "author": "gscott",
+        "title": "France cuts two nuclear-powered submarines in half to make one new one",
+        "score": "190 points",
+        "comments": "170"
+    },
+    {
+        "url": "https://privacyinternational.org/call-action/4414/sign-ban-biometric-mass-surveillance",
+        "author": "giuliomagnifico",
+        "title": "Sign for a ban on biometric mass surveillance",
+        "score": "31 points",
+        "comments": "3"
+    },
+    {
+        "url": "https://hirund.in/blog/coding-qualitative-data-current-and-future-practices",
+        "author": "petewailes",
+        "title": "Coding Qualitative Data",
+        "score": "52 points",
+        "comments": "2"
+    },
+    {
+        "url": "https://www.johnnunemaker.com/speakerdeck/",
+        "author": "swyx",
+        "title": "How to build an app, get acquired by GitHub, buy it back and then sell it again",
+        "score": "6 points"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Great_Vowel_Shift",
+        "author": "docdeek",
+        "title": "Great Vowel Shift",
+        "score": "257 points",
+        "comments": "264"
+    },
+    {
+        "author": "throwaway_23124",
+        "title": "Ask HN: My startup has more annual subscribers than monthly. What to make of it?",
+        "score": "104 points",
+        "comments": "132"
+    },
+    {
+        "url": "https://www.theguardian.com/world/2021/apr/15/man-who-fell-from-the-sky-airplane-stowaway-kenya-london",
+        "author": "zhte415",
+        "title": "Out of thin air: the mystery of the man who fell from the sky",
+        "score": "73 points",
+        "comments": "64"
+    },
+    {
+        "url": "https://commercialfreechildhood.org/wp-content/uploads/2021/04/instagram_letter.pdf",
+        "author": "giuliomagnifico",
+        "title": "Dear Zuckerberg, We're writing to urge you to cancel Instagram for children [pdf]",
+        "score": "365 points",
+        "comments": "256"
+    },
+    {
+        "url": "https://aeon.co/essays/how-the-fall-of-the-roman-empire-paved-the-road-to-modernity",
+        "author": "imartin2k",
+        "title": "The Road from Rome",
+        "score": "59 points",
+        "comments": "34"
+    },
+    {
+        "url": "https://www.coinbae.dating/",
+        "author": "dsr12",
+        "title": "The first worlds first decentralized dating platform for the crypto elite",
+        "score": "23 points",
+        "comments": "3"
+    },
+    {
+        "url": "https://trekhleb.dev/js-image-carver/",
+        "author": "ran5kpd",
+        "title": "JavaScript IMAGE CARVER, a content-aware image resizer",
+        "score": "12 points"
+    },
+    {
+        "url": "https://mailbox.org/en/post/it-companies-warn-eu-plans-to-ban-encryption",
+        "author": "kseistrup",
+        "title": "IT companies warn in open letter: EU wants to ban encryption",
+        "score": "324 points",
+        "comments": "210"
+    },
+    {
+        "url": "https://finance.yahoo.com/news/microsoft-edge-kids-mode-161818072.html",
+        "author": "thunderbong",
+        "title": "Microsoft launches Edge Kids Mode, the first kid-friendly version of a browser",
+        "score": "23 points",
+        "comments": "3"
+    },
+    {
+        "url": "https://github.com/samuelcolvin/pydantic/issues/2678",
+        "author": "amrrs",
+        "title": "PEP 563, PEP 649 and the future of pydantic and FastAPI",
+        "score": "276 points",
+        "comments": "147"
+    },
+    {
+        "url": "https://connectthewatts.com/2021/04/14/peloton-cuts-back-on-apple-watch-support/",
+        "author": "uptown",
+        "title": "Peloton cuts back on Apple Watch support",
+        "score": "188 points",
+        "comments": "245"
+    },
+    {
+        "url": "https://federalnewsnetwork.com/workforce/2021/04/sba-executives-beyond-doubt-that-teleworking-employees-are-more-productive/",
+        "author": "dtmmax33",
+        "title": "SBA executives \u2018beyond doubt\u2019 that teleworking employees are more productive",
+        "score": "103 points",
+        "comments": "106"
+    },
+    {
+        "url": "https://www.smithsonianmag.com/science-nature/scientists-say-nations-corn-belt-has-lost-third-its-topsoil-180977485/",
+        "author": "DyslexicAtheist",
+        "title": "The U.S. corn belt has lost a third of its topsoil",
+        "score": "318 points",
+        "comments": "262"
+    },
+    {
+        "url": "https://www.gcardone.net/2020-07-31-per-process-bandwidth-monitoring-on-Linux-with-bpftrace/",
+        "author": "silviot",
+        "title": "Accurate, low-overhead per process bandwidth monitoring in 40 lines of bpftrace",
+        "score": "75 points",
+        "comments": "7"
+    },
+    {
+        "url": "https://www.tedinski.com/2019/03/05/backpressure.html",
+        "author": "tosh",
+        "title": "Backpressure (2019)",
+        "score": "72 points",
+        "comments": "16"
+    },
+    {
+        "url": "https://blog.uidrafter.com/engineering/architecture-of-a-desktop-alike-spa",
+        "author": "efortis",
+        "title": "Architecture of a desktop-like SPA",
+        "score": "61 points",
+        "comments": "27"
+    },
+    {
+        "url": "https://vjpr.medium.com/dont-we-all-just-want-to-use-sql-on-the-frontend-6b9d38c08146",
+        "author": "vaughan",
+        "title": "Don\u2019t we all just want to use SQL on the front end?",
+        "score": "145 points",
+        "comments": "177"
+    },
+    {
+        "url": "https://unusualwhales.com/i_am_the_senate",
+        "author": "seriousquestion",
+        "title": "Unusual Stock Trading by Whales in US Congress",
+        "score": "1004 points",
+        "comments": "472"
+    },
+    {
+        "url": "https://www.nytimes.com/interactive/2021/04/17/travel/flying-plane-covid-19-safety.html",
+        "author": "axihack",
+        "title": "How Safe AreYou from Covid When You Fly?",
+        "score": "4 points"
+    },
+    {
+        "url": "https://twitter.com/Suhail/status/1382351985584721926",
+        "author": "prakhargurunani",
+        "title": "The first 18 months of a startup",
+        "score": "299 points",
+        "comments": "88"
+    },
+    {
+        "url": "https://lists.debian.org/debian-devel-announce/2021/04/msg00009.html",
+        "author": "yrcode",
+        "title": "General Resolution: Statement Regarding Richard Stallman's FSF Readmission",
+        "score": "21 points",
+        "comments": "12"
+    },
+    {
+        "url": "https://www.theverge.com/2021/4/16/22387492/google-floc-ad-tech-privacy-browsers-brave-vivaldi-edge-mozilla-chrome-safari",
+        "author": "Analemma_",
+        "title": "Nobody is joining Google's FLoC",
+        "score": "264 points",
+        "comments": "172"
+    },
+    {
+        "url": "https://tailscale.com/blog/sisyphean-dns-client-linux/",
+        "author": "smitop",
+        "title": "The Sisyphean Task of DNS Client Config on Linux",
+        "score": "166 points",
+        "comments": "85"
+    },
+    {
+        "url": "http://clouddiablo.com/",
+        "author": "giongteo",
+        "title": "Play DiabloII on Browser Collaboratively",
+        "score": "36 points",
+        "comments": "7"
+    },
+    {
+        "url": "https://vote.debian.org/~secretary/gr_rms/",
+        "author": "madars",
+        "title": "Debian votes to make no statement regarding RMS readmission to the FSF board",
+        "score": "77 points",
+        "comments": "74"
+    },
+    {
+        "url": "https://unixsheikh.com/articles/sqlite-the-only-database-you-will-ever-need-in-most-cases.html",
+        "author": "todsacerdoti",
+        "title": "SQLite the only database you will ever need in most cases",
+        "score": "539 points",
+        "comments": "364"
+    },
+    {
+        "url": "https://newhumanist.org.uk/articles/5786/book-review-ravenna",
+        "author": "magda_wang",
+        "title": "Book Review: Ravenna",
+        "score": "24 points",
+        "comments": "2"
+    },
+    {
+        "url": "https://www.cheeseprofessor.com/blog/all-the-cheese-in-china",
+        "author": "Thevet",
+        "title": "All the Cheese in China (2020)",
+        "score": "32 points",
+        "comments": "9"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/Kelly_criterion",
+        "author": "niklasbuschmann",
+        "title": "Kelly Criterion",
+        "score": "328 points",
+        "comments": "193"
+    },
+    {
+        "url": "https://www.nysfocus.com/2021/04/13/new-york-bitcoin-mining-threat/",
+        "author": "throwaway888abc",
+        "title": "Bitcoin miners are buying power plants",
+        "score": "413 points",
+        "comments": "550"
+    },
+    {
+        "url": "https://www.bbc.co.uk/news/science-environment-56749105",
+        "author": "glotgizmo",
+        "title": "'Whitest ever' paint reflects 98% of sunlight",
+        "score": "25 points"
+    },
+    {
+        "url": "https://www.dw.com/en/berlin-rent-cap-overturned-by-germanys-top-court/a-57209268",
+        "author": "tavrin",
+        "title": "Berlin rent cap overturned by Germany's top court",
+        "score": "159 points",
+        "comments": "357"
+    },
+    {
+        "url": "https://www.gwern.net/Ads",
+        "author": "dynm",
+        "title": "Banner Ads Considered Harmful",
+        "score": "149 points",
+        "comments": "43"
+    },
+    {
+        "url": "https://newhumanist.org.uk/articles/5784/talking-to-ourselves",
+        "author": "hobble",
+        "title": "Talking to Ourselves",
+        "score": "16 points",
+        "comments": "6"
+    },
+    {
+        "url": "https://medium.datadriveninvestor.com/streamlit-vs-dash-vs-voil%C3%A0-vs-panel-battle-of-the-python-dashboarding-giants-177c40b9ea57",
+        "author": "pablobaz",
+        "title": "Battle of the Python Dashboarding Giants: Streamlit vs. Dash vs. Voil\u00e0 vs. Panel",
+        "score": "33 points",
+        "comments": "7"
+    },
+    {
+        "url": "https://techcrunch.com/2021/04/15/garry-kasparov-launches-a-community-first-chess-platform/",
+        "author": "prostoalex",
+        "title": "Garry Kasparov launches a community-first chess platform",
+        "score": "138 points",
+        "comments": "81"
+    },
+    {
+        "url": "https://blog.lukaszolejnik.com/european-union-regulating-ai-allowing-the-use-of-deepfakes/",
+        "author": "Hard_Space",
+        "title": "European Union allowing the use of deepfakes",
+        "score": "54 points",
+        "comments": "35"
+    },
+    {
+        "url": "https://diataxis.fr/",
+        "author": "shafte",
+        "title": "The Grand Unified Theory of Documentation",
+        "score": "138 points",
+        "comments": "56"
+    },
+    {
+        "url": "https://www.currentaffairs.org/2021/04/surely-we-can-do-better-than-elon-musk",
+        "author": "isomorph",
+        "title": "Surely We Can Do Better Than Elon Musk",
+        "score": "8 points",
+        "comments": "5"
+    },
+    {
+        "url": "https://brooker.co.za/blog/2021/04/14/redundancy.html",
+        "author": "r4um",
+        "title": "Redundant Against What?",
+        "score": "32 points",
+        "comments": "17"
+    },
+    {
+        "url": "https://github.com/equant/RetroBridgeBBS",
+        "author": "zdw",
+        "title": "RetroBridgeBBS: An internet bridge BBS to transfer files to your retro computers",
+        "score": "52 points",
+        "comments": "18"
+    },
+    {
+        "url": "https://www.hashicorp.com/blog/announcing-hashicorp-terraform-0-15-general-availability",
+        "author": "myroon5",
+        "title": "Terraform 0.15 General Availability",
+        "score": "243 points",
+        "comments": "230"
+    },
+    {
+        "url": "https://star-trek.design",
+        "author": "doersino",
+        "title": "Star Trek and Design",
+        "score": "35 points"
+    },
+    {
+        "url": "https://www.brandons.me/blog/why-rust-strings-seem-hard",
+        "author": "brundolf",
+        "title": "Why Rust strings seem hard",
+        "score": "252 points",
+        "comments": "241"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/List_of_emerging_technologies",
+        "author": "aleyan",
+        "title": "List of Emerging Technologies",
+        "score": "158 points",
+        "comments": "44"
+    },
+    {
+        "url": "https://releases.llvm.org/12.0.0/docs/ReleaseNotes.html",
+        "author": "samber",
+        "title": "LLVM 12",
+        "score": "159 points",
+        "comments": "34"
+    },
+    {
+        "url": "https://www.johndcook.com/blog/2021/04/15/floor-ceiling-bracket/",
+        "author": "beagle3",
+        "title": "Floor, Ceiling, Bracket",
+        "score": "99 points",
+        "comments": "67"
+    },
+    {
+        "url": "https://cleanuptheweb.org/",
+        "author": "mthwl",
+        "title": "Clean Up the Web",
+        "score": "16 points"
+    },
+    {
+        "author": "mr_o47",
+        "title": "Ask HN: Can you get a job without LeetCode?",
+        "score": "14 points",
+        "comments": "10"
+    },
+    {
+        "url": "https://www.guernicamag.com/charting-the-land-of-great-loneliness/",
+        "author": "bingden",
+        "title": "Charting the Land of Great Loneliness",
+        "score": "32 points",
+        "comments": "8"
+    },
+    {
+        "author": "juliend2",
+        "title": "Ask HN: Games that made you better at your work?",
+        "score": "6 points",
+        "comments": "7"
+    },
+    {
+        "url": "http://io.livecode.ch/learn/namin/unsound",
+        "author": "tosh",
+        "title": "The Unsound Playground (2016)",
+        "score": "15 points"
+    },
+    {
+        "url": "https://www.docker.com/blog/released-docker-desktop-for-mac-apple-silicon/",
+        "author": "mbreese",
+        "title": "Docker Desktop for Mac (Apple Silicon)",
+        "score": "243 points",
+        "comments": "121"
+    },
+    {
+        "url": "https://www.apple.com/newsroom/2021/04/apple-fitness-plus-introduces-new-workouts-trainers-and-time-to-walk-guest/",
+        "author": "todsacerdoti",
+        "title": "Apple Fitness+ introduces new workouts, trainers, and Time to Walk guest",
+        "score": "108 points",
+        "comments": "120"
+    },
+    {
+        "url": "http://webdam.inria.fr/Alice/",
+        "author": "harperlee",
+        "title": "Foundations of Databases (1995)",
+        "score": "251 points",
+        "comments": "53"
+    },
+    {
+        "url": "https://jwt.tool-kit.dev/",
+        "author": "rajen_varma",
+        "title": "Show HN: Engineers, Want to Debug JSON Web Token? Refer JWT Tool",
+        "score": "3 points"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two",
+        "author": "simonpure",
+        "title": "The Magical Number Seven, Plus or Minus Two",
+        "score": "10 points"
+    },
+    {
+        "url": "https://www.cnx-software.com/2021/04/17/loongson-loongarch-cpu-instruction-set-architecture/",
+        "author": "pabs3",
+        "title": "Loongson unveils LoongArch CPU architecture for processors made in China",
+        "score": "9 points"
+    },
+    {
+        "url": "https://www.gwern.net/Research-criticism",
+        "author": "SubiculumCode",
+        "title": "How Should We Critique Research?",
+        "score": "71 points",
+        "comments": "46"
+    },
+    {
+        "url": "https://www.nytimes.com/2017/11/21/books/review/dawn-watch-joseph-conrad-biography-maya-jasanoff.html",
+        "author": "samclemens",
+        "title": "The Contradictions of Joseph Conrad (2017)",
+        "score": "8 points"
+    },
+    {
+        "url": "https://www.aboutamazon.com/news/company-news/2020-letter-to-shareholders",
+        "author": "thomasjudge",
+        "title": "Amazon 2020 Letter to Shareholders",
+        "score": "129 points",
+        "comments": "159"
+    },
+    {
+        "url": "https://www.gamasutra.com/blogs/AnnaPlisovitskaya/20210415/379859/Publishing_a_game_on_Epic_Games_Store_Three_not_so_simple_steps.php",
+        "author": "pjmlp",
+        "title": "Publishing a game on Epic Games Store: Three (not so) simple steps",
+        "score": "18 points"
+    },
+    {
+        "url": "https://gist.github.com/wlib/093f8b8f670016813073a4c4f8b28e81",
+        "author": "wlib",
+        "title": "Show HN: Run unknown shell script with a line-by-line confirmation prompt",
+        "score": "158 points",
+        "comments": "81"
+    },
+    {
+        "url": "https://pptrconsole.com?a",
+        "author": "graderjs",
+        "title": "Show HN: Puppeteer scripts in the Browser, DevTools on remote pages",
+        "score": "52 points",
+        "comments": "21"
+    },
+    {
+        "url": "https://github.com/TurkeyMcMac/vt52ish",
+        "author": "jwmhjwmh",
+        "title": "Show HN: A VT52 Emulator Running in Ncurses",
+        "score": "3 points"
+    },
+    {
+        "url": "https://granta.com/uwaa-fifty-sounds-polly-barton/",
+        "author": "community",
+        "title": "The sound of the feeling that cannot be spoken",
+        "score": "71 points",
+        "comments": "5"
+    },
+    {
+        "url": "https://www.nytimes.com/2021/04/14/arts/frank-jacobs-dead.html",
+        "author": "pseudolus",
+        "title": "Frank Jacobs, Mad Magazine writer, has died",
+        "score": "71 points",
+        "comments": "18"
+    },
+    {
+        "url": "https://www.npr.org/sections/health-shots/2021/04/15/987164563/scientists-create-early-embryos-that-are-part-human-part-monkey",
+        "author": "Tomte",
+        "title": "Embryos That Are Part Monkey, Part Human Raise Ethical Concerns",
+        "score": "30 points",
+        "comments": "12"
+    },
+    {
+        "url": "https://litestream.io/",
+        "author": "Tomte",
+        "title": "Litestream \u2013 Streaming SQLite Replication",
+        "score": "25 points",
+        "comments": "2"
+    },
+    {
+        "url": "https://security.googleblog.com/2021/04/rust-in-linux-kernel.html",
+        "author": "ndesaulniers",
+        "title": "Rust in the Linux Kernel (Android Security Blog)",
+        "score": "47 points",
+        "comments": "3"
+    },
+    {
+        "url": "https://www.tomshardware.com/news/hard-drive-ssd-shortages-imminent-if-new-cryptocurrency-blooms",
+        "author": "RachelF",
+        "title": "Hard Drive and SSD Shortages Could Be Imminent If New Cryptocurrency Blooms",
+        "score": "7 points"
+    },
+    {
+        "url": "https://tingilinde.typepad.com/omenti/2021/04/natural-conditions.html",
+        "author": "mstats",
+        "title": "Natural Conditions",
+        "score": "9 points"
+    },
+    {
+        "url": "https://blog.tarkalabs.com/digital-audio-101-playing-audio-from-a-microcontroller-5df1463616c",
+        "author": "sreedevk",
+        "title": "Digital Audio 101: Playing Audio from a Microcontroller",
+        "score": "96 points",
+        "comments": "33"
+    },
+    {
+        "url": "https://github.com/coqui-ai",
+        "author": "doener",
+        "title": "Coqui, a startup providing open speech tech for everyone",
+        "score": "173 points",
+        "comments": "59"
+    },
+    {
+        "author": "berabera",
+        "title": "Ask HN: Is Deno Worth Learning?",
+        "score": "12 points",
+        "comments": "3"
+    },
+    {
+        "url": "https://www.newyorker.com/magazine/2021/04/19/how-did-a-self-taught-linguist-come-to-own-an-indigenous-language",
+        "author": "bryanrasmussen",
+        "title": "How Did a Self-Taught Linguist Come to Own an Indigenous Language?",
+        "score": "52 points",
+        "comments": "6"
+    },
+    {
+        "url": "https://www.joshwcomeau.com/blog/why-my-blog-is-closed-source/",
+        "author": "feross",
+        "title": "Why My Blog Is Closed-Source",
+        "score": "63 points",
+        "comments": "104"
+    },
+    {
+        "url": "https://www.seattletimes.com/business/seattle-startup-sends-laser-equipped-robots-to-zap-weeds-on-farmland/",
+        "author": "WalterBright",
+        "title": "Laser-equipped robots to zap weeds on farmland",
+        "score": "8 points",
+        "comments": "3"
+    },
+    {
+        "url": "https://krebsonsecurity.com/2021/04/did-someone-at-the-commerce-dept-find-a-solarwinds-backdoor-in-aug-2020/",
+        "author": "todsacerdoti",
+        "title": "Did Someone at the Commerce Dept. Find a SolarWinds Backdoor in Aug. 2020?",
+        "score": "39 points"
+    },
+    {
+        "url": "https://www.reuters.com/technology/turkey-bans-use-cryptocurrencies-payments-sends-bitcoin-down-2021-04-16/",
+        "author": "imartin2k",
+        "title": "Turkey bans use of cryptocurrencies for payments",
+        "score": "320 points",
+        "comments": "287"
+    },
+    {
+        "url": "https://www.philipotoole.com/7-years-of-open-source-database-development-lessons-learned/",
+        "author": "dcu",
+        "title": "7 Years of Open-Source Database Development: Lessons Learned",
+        "score": "30 points",
+        "comments": "5"
+    },
+    {
+        "url": "https://www.apple.com/in/shop/help/returns_refund",
+        "author": "tumblewit",
+        "title": "Products purchased at Apple Store in India cannot be refunded or exchanged",
+        "score": "211 points",
+        "comments": "304"
+    },
+    {
+        "url": "https://www.nytimes.com/2021/04/15/opinion/global-trends-intelligence-report.html",
+        "author": "alxmrs",
+        "title": "Why Spy Agencies Say the Future Is Bleak",
+        "score": "65 points",
+        "comments": "32"
+    },
+    {
+        "url": "https://www.vscolors.com/",
+        "author": "vuciv1",
+        "title": "Show HN: VSColors, a Visual Studio theme browser",
+        "score": "52 points",
+        "comments": "13"
+    },
+    {
+        "url": "https://halo-therapeutics.com/",
+        "author": "thro1",
+        "title": "New biotech company from Bristol uses linoleic acid as pan coronavirus antiviral",
+        "score": "32 points",
+        "comments": "27"
+    },
+    {
+        "url": "https://markets.businessinsider.com/news/stocks/new-jersey-deli-hometown-international-sales-market-cap-david-einhorn-2021-4-1030312707",
+        "author": "onetimemanytime",
+        "title": "Single New Jersey deli boasts a $105M market cap, despite $14K in sales",
+        "score": "63 points",
+        "comments": "30"
+    },
+    {
+        "url": "http://wxwidgets.org/news/2021/04/wxwidgets-3.1.5-released/",
+        "author": "tkuraku",
+        "title": "wxWidgets 3.1.5",
+        "score": "119 points",
+        "comments": "58"
+    },
+    {
+        "url": "https://seirdy.one/2021/04/16/permissions-policy-floc-misinfo.html",
+        "author": "Seirdy",
+        "title": "Misinformation about Permissions Policy and FLoC",
+        "score": "17 points",
+        "comments": "6"
+    },
+    {
+        "url": "https://bigthink.com/technology-innovation/lessons-roman-empire-danger-luxury",
+        "author": "saemei",
+        "title": "Lessons from Roman Empire about dangers of luxury",
+        "score": "10 points",
+        "comments": "4"
+    },
+    {
+        "url": "https://github.com/DSecurity/efiSeek",
+        "author": "adulau",
+        "title": "Ghidra Analyzer for UEFI Firmware",
+        "score": "126 points",
+        "comments": "22"
+    },
+    {
+        "url": "https://blog.golemproject.net/golem-primer/",
+        "author": "kristianpaul",
+        "title": "A Primer Through Golem",
+        "score": "103 points",
+        "comments": "80"
+    },
+    {
+        "url": "https://www.slip.so/blog/how-I-made-10k-teaching-vim",
+        "author": "vitabenes",
+        "title": "How I made a profitable Vim course",
+        "score": "171 points",
+        "comments": "52"
+    },
+    {
+        "url": "https://phys.org/news/2021-04-island-gigantism-dwarfism-result-evolutionary.html",
+        "author": "finphil",
+        "title": "Island gigantism and dwarfism the result of evolutionary island rule",
+        "score": "32 points",
+        "comments": "2"
+    },
+    {
+        "url": "https://www.dontasktoask.com/",
+        "author": "st_goliath",
+        "title": "Don't ask to ask, just ask",
+        "score": "9 points"
+    },
+    {
+        "url": "https://chestofbooks.com/home-improvement/workshop/Turning-Mechanical/Maudslay-s-Methods-Of-Originating-Screws.html",
+        "author": "Tomte",
+        "title": "Maudslay's Methods of Originating Screws",
+        "score": "3 points"
+    },
+    {
+        "url": "https://wp.optics.arizona.edu/falco/art-optics/historical-questions/making-a-concave-mirror/",
+        "author": "Tomte",
+        "title": "Making a Concave Mirror Using 15th Century Technology (2018)",
+        "score": "3 points"
+    },
+    {
+        "url": "https://yro.slashdot.org/story/21/04/16/0023255/amazon-tried-to-coerce-ecobee-into-collecting-private-user-data-the-wsj-reports",
+        "author": "thebetatester",
+        "title": "Amazon Tried to Coerce Ecobee into Collecting Private User Data, the WSJ Reports",
+        "score": "35 points",
+        "comments": "4"
+    },
+    {
+        "url": "https://www.cantorsparadise.com/kurt-g\u00f6dels-brilliant-madness-84288dd96eda",
+        "author": "DevilMadeMeDoIT",
+        "title": "Kurt G\u00f6del\u2019s Brilliant Madness",
+        "score": "59 points",
+        "comments": "11"
+    },
+    {
+        "url": "https://www.reddit.com/r/privacy/comments/gr11aw/i_think_i_accidentally_started_a_movement/",
+        "author": "ttty",
+        "title": "Policing the Police by scraping court data",
+        "score": "31 points",
+        "comments": "4"
+    },
+    {
+        "url": "https://www.bbc.co.uk/news/health-56745139",
+        "author": "aluket",
+        "title": "Psilocybin 'promising' for depression",
+        "score": "302 points",
+        "comments": "314"
+    },
+    {
+        "url": "https://gnu.tools/en/blog/2021/04/kicking-off-the-gnu-assembly/",
+        "author": "ABS",
+        "title": "Kicking Off the GNU Assembly",
+        "score": "29 points",
+        "comments": "11"
+    },
+    {
+        "url": "https://devskiller.com/it-skills-report/#Twelve",
+        "author": "gru232",
+        "title": "DevSkiller IT skills report 2021: Demand and hiring trends",
+        "score": "106 points",
+        "comments": "161"
+    },
+    {
+        "url": "https://arstechnica.com/gaming/2021/04/the-looming-software-kill-switch-lurking-in-aging-playstation-hardware/",
+        "author": "Tomte",
+        "title": "The looming software kill-switch lurking in aging Playstation hardware",
+        "score": "132 points",
+        "comments": "79"
+    },
+    {
+        "url": "https://www.seeedstudio.com/ReTerminal-with-CM4-p-4904.html",
+        "author": "magicalhippo",
+        "title": "ReTerminal \u2013 Embedded Linux with Raspberry Pi CM4 and 5-Inch Multi-Touch Screen",
+        "score": "18 points",
+        "comments": "3"
+    },
+    {
+        "url": "https://teenage.engineering/products/op-1/anniversary",
+        "author": "evo_9",
+        "title": "Ten years of OP-1",
+        "score": "141 points",
+        "comments": "203"
+    },
+    {
+        "url": "https://www.nytimes.com/2021/04/17/opinion/resume-advice.html",
+        "author": "mooreds",
+        "title": "I Have Read Thousands of R\u00e9sum\u00e9s and I Have Some Advice",
+        "score": "7 points"
+    },
+    {
+        "url": "https://en.wikipedia.org/wiki/B._Traven",
+        "author": "benbreen",
+        "title": "B. Traven",
+        "score": "3 points"
+    },
+    {
+        "url": "https://www.youtube.com/watch?v=-r2oaQWmqkk",
+        "author": "trott",
+        "title": "\u201cPyramid UFO\u201d \u2013 New Footage. It's Just Bokeh, Not a Pyramid",
+        "score": "52 points",
+        "comments": "3"
+    },
+    {
+        "url": "https://variety.com/2021/digital/news/twitter-down-outage-1234953749/",
+        "author": "app4soft",
+        "title": "Twitter Experiences Widespread Outages",
+        "score": "91 points",
+        "comments": "67"
+    },
+    {
+        "url": "https://calendso.com",
+        "author": "baileypumfleet",
+        "title": "Calendso: An open source Calendly alternative",
+        "score": "308 points",
+        "comments": "90"
+    },
+    {
+        "author": "furrowedbrow",
+        "title": "Ask HN: How are you implementing membership/auth for your SaaS or other project?",
+        "score": "30 points",
+        "comments": "15"
+    },
+    {
+        "url": "https://www.theparisreview.org/blog/2017/10/18/oscar-wilde-colluded-russians/",
+        "author": "pepys",
+        "title": "Oscar Wilde's play about Russian nihilists (2017)",
+        "score": "17 points"
+    },
+    {
+        "url": "https://www.datacenterdynamics.com/en/news/tsmc-suffers-power-outage-at-tainan-chip-fab-complex/",
+        "author": "garaetjjte",
+        "title": "TSMC suffers power outage at Tainan chip fab complex",
+        "score": "17 points",
+        "comments": "2"
+    },
+    {
+        "url": "https://www.criterion.com/current/posts/7268-the-acrobatic-grace-of-cary-grant",
+        "author": "bryanrasmussen",
+        "title": "The Acrobatic Grace of Cary Grant",
+        "score": "22 points",
+        "comments": "30"
+    },
+    {
+        "author": "Rperry2174",
+        "title": "Ask HN: Would issue \u201cbounties\u201d make contributing to open source more appealing?",
+        "score": "106 points",
+        "comments": "92"
+    },
+    {
+        "url": "https://www.politico.eu/article/court-strikes-down-berlin-rent-cap/",
+        "author": "zajio1am",
+        "title": "German constitutional court strikes down Berlin rent cap",
+        "score": "86 points",
+        "comments": "86"
+    },
+    {
+        "url": "https://interestingengineering.com/court-permits-fbi-to-hack-computers-around-us-to-eradicate-hack",
+        "author": "awb",
+        "title": "Court Permits FBI to Hack Computers Around the US to Eradicate a Hack",
+        "score": "4 points"
+    },
+    {
+        "url": "https://www.tedinski.com/2018/02/27/the-expression-problem.html",
+        "author": "tosh",
+        "title": "Design duality and the expression problem (2018)",
+        "score": "13 points",
+        "comments": "8"
+    },
+    {
+        "url": "https://www.canada.ca/en/radio-television-telecommunications/news/2021/04/crtc-puts-measures-in-place-to-spur-more-mobile-wireless-competition-for-canadians.html",
+        "author": "barbazoo",
+        "title": "CRTC allows small wireless carriers to use big networks",
+        "score": "65 points",
+        "comments": "36"
+    },
+    {
+        "url": "https://github.com/jberg/butterchurn",
+        "author": "podiki",
+        "title": "Butterchurn \u2013 A WebGL Implementation of the Milkdrop Visualizer",
+        "score": "123 points",
+        "comments": "23"
+    }
+]

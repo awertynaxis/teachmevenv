@@ -1,0 +1,45 @@
+{%extends "base.html" %}
+{% block content %}
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<ul>
+   {% for obj in object_list %}
+
+        <p> <br><li>
+            User:{{obj.user.username}}</li>
+            <br><li>
+            Task name:{{obj.title}}</li>
+            <br><li>
+            Date started:{{obj.date_created}}</li>
+            <br><li>
+            Date complete:{{obj.date_completed}}</li>
+            <br><li>
+            Your task's description:{{obj.description}}</li>
+            <br><li>
+            {% if obj.completed == False%}
+            Task hasn't finished yet!
+            {% endif %}
+            {% if obj.completed == True%}
+            Task  is already finished!
+            {% endif %}</p>
+       </li>
+    <form action="{% url 'updatetask' obj.id%}">
+    <button type="submit" class="btn btn-outline-primary" >Update task
+    </button>
+</form>
+    <br>
+        <form action="{% url 'deletetask' obj.id%}">
+    <button type="submit" class="btn btn-outline-primary" >Delete task
+    </button>
+</form>
+    <br>
+<form action="{% url 'show_registration' %}">
+    <button type="submit" class="btn btn-outline-primary" >Get back to Task's list
+    </button>
+</form>
+   <br>
+  {% endfor %}
+    </ul>
+{% endblock %}

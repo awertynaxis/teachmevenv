@@ -1,0 +1,49 @@
+{%extends "base.html" %}
+{% block content %}
+<html lang="en">
+<head>
+      <style>
+    p{color:black; font-family:"Times New Roman"}
+    </style>
+</head>
+<body>
+ Welcome {{user}}! here u can check your task's , if u want to get detail information about task - just press on it!
+<lu>
+    {% for obj in object_list %}
+        <p> <br><li>
+        <a class="btn btn-primary"  href="{% url 'show_task_detail' obj.id%}" role="button">Task name:{{obj.title}} </a> </li>
+        <br><li>
+        <a class="btn btn-primary"  href="{% url 'archive_task_date'  obj.date_created.year obj.date_created.month obj.date_created.day %}" role="button"> Date started:{{obj.date_created}}</a></li>
+        <br><li>
+        Date complete:{{obj.date_completed}}</li>
+</p>
+  {% endfor %}
+</lu>
+<form action="{{'createtask'}}" method="get">
+    <button type="submit" class="btn btn-danger" >Add new task
+    </button>
+</form>
+<br>
+<form action="{% url 'today' %}" method="get">
+    <button type="submit" class="btn btn-success" >Task's for today
+    </button>
+</form>
+<br>
+<form action="{% url 'show_completed_detail/completed' %}" method="get">
+    <button type="submit" class="btn btn-primary" >Completed task's
+    </button>
+</form>
+<br>
+<form action="{% url 'show_completed_detail/uncompleted' %}" method="get">
+    <button type="submit" class="btn btn-warning" >Uncompleted task's
+    </button>
+    </form>
+    <br>
+<form action="{% url 'login' %}" method="get">
+    <button type="submit" class="btn btn-success" >Log out
+    </button>
+</form>
+
+</body>
+</html>
+{% endblock %}
