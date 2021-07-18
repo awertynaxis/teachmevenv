@@ -4,10 +4,12 @@ from django.urls import re_path, path
 from .views import welcome, list_make_view, list_registration_view, \
     list_createtask_view, update_task_view, delete_task_view, \
     archive_task_date_view, list_task_view, archive_task_today_view, \
-    list_completed_view, list_uncompleted_view, login_view
+    list_completed_view, list_uncompleted_view, login_view, list_room_view, details_room_view
 
 urlpatterns = [
     url('^welcome$', welcome, name='welcome'),
+    path('room/', list_room_view, name ='room'),
+    re_path('^room/(?P<pk>\d+)',details_room_view , name='room-details'),
     url('^show_registration', list_make_view, name='show_registration'),
     url('^registration', list_registration_view, name='registration'),
     url('^login', login_view, name='login'),

@@ -1,11 +1,17 @@
 from django.db import models
 from django.contrib.auth.models import User
+from .managers import BaseFilterManager
 # Create your models here.db
 
 
 class Room(models.Model):
     name = models.CharField(max_length=255)
     archived = models.BooleanField(default=False)
+
+    objects = BaseFilterManager()
+
+    def __str__(self):
+        return self.name
 
 
 class Registrations(models.Model):

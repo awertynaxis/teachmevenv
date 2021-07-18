@@ -1,11 +1,23 @@
 # Create your views here.
+from rest_framework import generics
 from django.contrib.auth.mixins import LoginRequiredMixin
 from django.contrib.auth.models import User
 from django.contrib.auth.views import LoginView
 from django.shortcuts import render
 from django.urls import reverse, reverse_lazy
 from django.views.generic import ListView, CreateView, UpdateView, DeleteView, DayArchiveView, TodayArchiveView
-from .models import Tasks
+from .models import Tasks, Room
+from .serializers import RoomSerializer
+
+
+class RoomListView(generics.ListCreateAPIView):
+    serializer_class = RoomSerializer
+    queryset = Room.objects.not_archived()
+
+
+class RoomDetailView(generics.RetrieveUpdateDestroyAPIView):
+    serializer_class = RoomSerializer
+    queryset = Room.objects.all()
 
 
 def welcome(request):
@@ -53,7 +65,7 @@ class ListUnCompletedView(LoginRequiredMixin, ListView):
 class CreateRegistrationView(CreateView):
     model = User
     template_name = 'registration.html'
-    fields = ('email', 'password', 'password', 'username', 'first_name', 'last_name')
+    fields = ('email', 'password', 'username', 'first_name', 'last_name')
 
     def get_success_url(self):
         return reverse('welcome')
@@ -98,7 +110,7 @@ class TaskDayArchiveView(LoginRequiredMixin, DayArchiveView):
 
 class TaskTodayArchiveView(LoginRequiredMixin, TodayArchiveView):
     allow_empty = True
-    date_field = 'date_completed'
+    date_field = 'until_date'
     template_name = 'today.html'
 
     def get_queryset(self):
@@ -116,3 +128,5 @@ list_task_view = ListTaskView.as_view()
 list_completed_view = ListCompletedView.as_view()
 list_uncompleted_view = ListUnCompletedView.as_view()
 login_view = Login.as_view()
+list_room_view = RoomListView.as_view()
+details_room_view = RoomDetailView.as_view()
